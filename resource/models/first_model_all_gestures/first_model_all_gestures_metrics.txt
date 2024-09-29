@@ -1,0 +1,33 @@
+Epoch: 349 	 Forwardpropagation finished.
+Epoch 349 	 Loss: 0.39153445697088496.
+Epoch 349 	 Accuracy: 0.9704563121890547
+Epoch: 349 	 Backpropagation finished.
+Epoche 349 finished.
+ Accuracy: 0.8835199004975124
+Trainingsdata: Accuracy of 0 is 0.8435870374968959
+Trainingsdata: Accuracy of 1 is 0.8785912882298424
+Trainingsdata: Accuracy of 2 is 0.8898619957537155
+Trainingsdata: Accuracy of 3 is 0.8906263726609857
+Trainingsdata: Accuracy of 4 is 0.9185339225370418
+Trainingsdata: Accuracy of 5 is 0.9406534785507891
+Trainingsdata: Accuracy of 6 is 0.8719684151156233
+Trainingsdata: Accuracy of 7 is 0.9067155067155067
+Trainingsdata: Overall accuracy is 0.8835199004975124
+Trainingsdata F1 score per class: [0.84585817 0.88627713 0.89282386 0.89168389 0.91605745 0.92482517
+ 0.89597218 0.89874133]
+Trainingsdata F1 score: 0.8940298971250027
+/Users/juliusschneller/Desktop/Info_MA/Machine_Learning/final_project/gesture-classifier/src/machine_learning_framework/ActivationFunctions.py:17: RuntimeWarning: overflow encountered in exp
+  return 1 / (1 + np.exp(-z))
+ Accuracy: 0.7821418206442875
+Validationdata: Accuracy of 0 is 0.7230257448654903
+Validationdata: Accuracy of 1 is 0.8437110834371109
+Validationdata: Accuracy of 2 is 0.8229426433915212
+Validationdata: Accuracy of 3 is 0.6617344841759145
+Validationdata: Accuracy of 4 is 0.8395477507818138
+Validationdata: Accuracy of 5 is 0.7537688442211056
+Validationdata: Accuracy of 6 is 0.6390374331550802
+Validationdata: Accuracy of 7 is 0.928984947896565
+Validationdata: Overall accuracy is 0.7821418206442875
+Validationdata F1 score: [0.75685087 0.85435057 0.80561489 0.73499201 0.79981666 0.77760498
+ 0.72644377 0.80313647]
+Validationdata F1 score: 0.7823512771316018

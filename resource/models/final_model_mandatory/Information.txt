@@ -1,0 +1,39 @@
+Layer size: 899, 50, 20, 4
+
+##########################
+
+ #####################
+
+Epoch: 349 	 Forwardpropagation finished.
+Epoch 349 	 Loss: 0.33601418927496757.
+Epoch 349 	 Accuracy: 0.945169128707525
+Epoch: 349 	 Backpropagation finished.
+Epoche 349 finished.
+ Accuracy: 0.8891117367994754
+/Users/juliusschneller/Desktop/Info_MA/Machine_Learning/final_project/gesture-classifier/src/pipeline/pipeline_components/model_trainer.py:55: RuntimeWarning: invalid value encountered in scalar divide
+  print("Trainingsdata: Accuracy of " + str(i) + " is " + str(confusion[i][i] / np.sum(confusion[i])))
+Trainingsdata: Accuracy of 0 is 0.8422413594071064
+Trainingsdata: Accuracy of 1 is 0.923884932160904
+Trainingsdata: Accuracy of 2 is 0.9308878699458107
+Trainingsdata: Accuracy of 3 is 0.8932498185435093
+Trainingsdata: Accuracy of 4 is nan
+Trainingsdata: Accuracy of 5 is nan
+Trainingsdata: Accuracy of 6 is nan
+Trainingsdata: Accuracy of 7 is nan
+Trainingsdata: Overall accuracy is 0.8891117367994754
+Trainingsdata F1 score per class: [0.85102412 0.90267654 0.91162183 0.90914812]
+Trainingsdata F1 score: 0.893617653021541
+ Accuracy: 0.8930448556411549
+/Users/juliusschneller/Desktop/Info_MA/Machine_Learning/final_project/gesture-classifier/src/pipeline/pipeline_components/model_trainer.py:94: RuntimeWarning: invalid value encountered in scalar divide
+  print("Validationdata: Accuracy of " + str(i) + " is " + str(confusion[i][i] / np.sum(confusion[i])))
+Validationdata: Accuracy of 0 is 0.84593927690162
+Validationdata: Accuracy of 1 is 0.924883504193849
+Validationdata: Accuracy of 2 is 0.9345238095238095
+Validationdata: Accuracy of 3 is 0.9003974167908594
+Validationdata: Accuracy of 4 is nan
+Validationdata: Accuracy of 5 is nan
+Validationdata: Accuracy of 6 is nan
+Validationdata: Accuracy of 7 is nan
+Validationdata: Overall accuracy is 0.8930448556411549
+Validationdata F1 score: [0.85725158 0.90218182 0.91723466 0.9125236 ]
+Validationdata F1 score: 0.8972979146074633

@@ -1,0 +1,2618 @@
+timestamp,ground_truth
+0,idle
+33,idle
+66,idle
+100,idle
+133,idle
+166,idle
+200,idle
+233,idle
+266,idle
+300,idle
+333,idle
+366,idle
+400,idle
+433,idle
+466,idle
+500,idle
+533,idle
+566,idle
+600,idle
+633,idle
+666,idle
+700,idle
+733,idle
+766,idle
+800,idle
+833,idle
+866,idle
+900,idle
+933,idle
+966,idle
+1000,idle
+1033,idle
+1066,idle
+1100,idle
+1133,idle
+1166,idle
+1200,idle
+1233,idle
+1266,idle
+1300,idle
+1333,idle
+1366,idle
+1400,idle
+1433,idle
+1466,idle
+1500,idle
+1533,idle
+1566,idle
+1600,idle
+1633,idle
+1666,idle
+1700,idle
+1733,idle
+1766,idle
+1800,idle
+1833,idle
+1866,idle
+1900,idle
+1933,idle
+1966,idle
+2000,idle
+2033,idle
+2066,idle
+2100,idle
+2133,idle
+2166,idle
+2200,idle
+2233,idle
+2266,idle
+2300,idle
+2333,idle
+2366,idle
+2400,idle
+2433,idle
+2466,idle
+2500,idle
+2533,idle
+2566,idle
+2600,idle
+2633,idle
+2666,idle
+2700,swipe left
+2733,swipe left
+2766,swipe left
+2800,swipe left
+2833,swipe left
+2866,swipe left
+2900,swipe left
+2933,swipe left
+2966,swipe left
+3000,swipe left
+3033,swipe left
+3066,swipe left
+3100,swipe left
+3133,swipe left
+3166,swipe left
+3200,swipe left
+3233,swipe left
+3266,swipe left
+3300,swipe left
+3333,swipe left
+3366,swipe left
+3400,swipe left
+3433,swipe left
+3466,idle
+3500,idle
+3533,idle
+3566,idle
+3600,idle
+3633,idle
+3666,idle
+3699,idle
+3733,idle
+3766,idle
+3800,idle
+3833,idle
+3866,idle
+3900,idle
+3933,idle
+3966,idle
+4000,idle
+4033,idle
+4066,idle
+4100,idle
+4133,idle
+4166,idle
+4200,idle
+4233,idle
+4266,idle
+4300,idle
+4333,idle
+4366,idle
+4400,idle
+4433,idle
+4466,idle
+4500,idle
+4533,idle
+4566,idle
+4600,idle
+4633,idle
+4666,idle
+4700,idle
+4733,idle
+4766,idle
+4800,idle
+4833,idle
+4866,idle
+4900,idle
+4933,idle
+4966,idle
+5000,idle
+5033,idle
+5066,idle
+5100,idle
+5133,idle
+5166,idle
+5200,idle
+5233,idle
+5266,idle
+5300,idle
+5333,swipe left
+5366,swipe left
+5400,swipe left
+5433,swipe left
+5466,swipe left
+5500,swipe left
+5533,swipe left
+5566,swipe left
+5600,swipe left
+5633,swipe left
+5666,swipe left
+5700,swipe left
+5733,swipe left
+5766,swipe left
+5800,swipe left
+5833,swipe left
+5866,swipe left
+5900,swipe left
+5933,swipe left
+5966,swipe left
+6000,swipe left
+6033,swipe left
+6066,swipe left
+6100,swipe left
+6133,swipe left
+6166,idle
+6200,idle
+6233,idle
+6266,idle
+6300,idle
+6333,idle
+6366,idle
+6400,idle
+6433,idle
+6466,idle
+6500,idle
+6533,idle
+6566,idle
+6600,idle
+6633,idle
+6666,idle
+6700,idle
+6733,idle
+6766,idle
+6800,idle
+6833,idle
+6866,idle
+6899,idle
+6933,idle
+6966,idle
+7000,idle
+7033,idle
+7066,idle
+7100,idle
+7133,idle
+7166,idle
+7200,idle
+7233,idle
+7266,idle
+7300,idle
+7333,idle
+7366,idle
+7399,idle
+7433,idle
+7466,idle
+7500,idle
+7533,idle
+7566,idle
+7600,idle
+7633,idle
+7666,swipe left
+7700,swipe left
+7733,swipe left
+7766,swipe left
+7800,swipe left
+7833,swipe left
+7866,swipe left
+7899,swipe left
+7933,swipe left
+7966,swipe left
+8000,swipe left
+8033,swipe left
+8066,swipe left
+8100,swipe left
+8133,swipe left
+8166,swipe left
+8200,swipe left
+8233,swipe left
+8266,swipe left
+8300,swipe left
+8333,swipe left
+8366,swipe left
+8400,swipe left
+8433,swipe left
+8466,swipe left
+8500,swipe left
+8533,swipe left
+8566,swipe left
+8600,swipe left
+8633,swipe left
+8666,swipe left
+8700,swipe left
+8733,idle
+8766,idle
+8800,idle
+8833,idle
+8866,idle
+8900,idle
+8933,idle
+8966,idle
+9000,idle
+9033,idle
+9066,idle
+9100,idle
+9133,idle
+9166,idle
+9200,idle
+9233,idle
+9266,idle
+9300,idle
+9333,idle
+9366,idle
+9400,idle
+9433,idle
+9466,idle
+9500,idle
+9533,idle
+9566,idle
+9600,idle
+9633,idle
+9666,idle
+9700,idle
+9733,idle
+9766,idle
+9800,idle
+9833,idle
+9866,idle
+9900,idle
+9933,idle
+9966,idle
+10000,idle
+10033,idle
+10066,idle
+10100,idle
+10133,idle
+10166,idle
+10200,idle
+10233,idle
+10266,idle
+10300,idle
+10333,idle
+10366,idle
+10400,idle
+10433,idle
+10466,idle
+10500,idle
+10533,idle
+10566,idle
+10600,idle
+10633,swipe left
+10666,swipe left
+10700,swipe left
+10733,swipe left
+10766,swipe left
+10800,swipe left
+10833,swipe left
+10866,swipe left
+10900,swipe left
+10933,swipe left
+10966,swipe left
+11000,swipe left
+11033,swipe left
+11066,swipe left
+11100,swipe left
+11133,swipe left
+11166,swipe left
+11200,swipe left
+11233,swipe left
+11266,swipe left
+11300,swipe left
+11333,swipe left
+11366,swipe left
+11400,swipe left
+11433,swipe left
+11466,swipe left
+11500,swipe left
+11533,swipe left
+11566,idle
+11600,idle
+11633,idle
+11666,idle
+11700,idle
+11733,idle
+11766,idle
+11800,idle
+11833,idle
+11866,idle
+11900,idle
+11933,idle
+11966,idle
+12000,idle
+12033,idle
+12066,idle
+12100,idle
+12133,idle
+12166,idle
+12200,idle
+12233,idle
+12266,idle
+12300,idle
+12333,idle
+12366,idle
+12400,idle
+12433,idle
+12466,idle
+12500,idle
+12533,idle
+12566,idle
+12600,idle
+12633,idle
+12666,idle
+12700,idle
+12733,idle
+12766,idle
+12800,idle
+12833,idle
+12866,idle
+12900,idle
+12933,idle
+12966,idle
+13000,idle
+13033,idle
+13066,idle
+13100,idle
+13133,idle
+13166,idle
+13200,idle
+13233,idle
+13266,swipe left
+13299,swipe left
+13333,swipe left
+13366,swipe left
+13400,swipe left
+13433,swipe left
+13466,swipe left
+13500,swipe left
+13533,swipe left
+13566,swipe left
+13600,swipe left
+13633,swipe left
+13666,swipe left
+13700,swipe left
+13733,swipe left
+13766,swipe left
+13799,swipe left
+13833,swipe left
+13866,swipe left
+13900,swipe left
+13933,swipe left
+13966,swipe left
+14000,swipe left
+14033,swipe left
+14066,swipe left
+14100,swipe left
+14133,swipe left
+14166,swipe left
+14200,swipe left
+14233,idle
+14266,idle
+14299,idle
+14333,idle
+14366,idle
+14400,idle
+14433,idle
+14466,idle
+14500,idle
+14533,idle
+14566,idle
+14600,idle
+14633,idle
+14666,idle
+14700,idle
+14733,idle
+14766,idle
+14799,idle
+14833,idle
+14866,idle
+14900,idle
+14933,idle
+14966,idle
+15000,idle
+15033,idle
+15066,idle
+15100,idle
+15133,idle
+15166,idle
+15200,idle
+15233,idle
+15266,idle
+15299,idle
+15333,idle
+15366,idle
+15400,idle
+15433,idle
+15466,idle
+15500,idle
+15533,idle
+15566,idle
+15600,idle
+15633,idle
+15666,idle
+15700,idle
+15733,idle
+15766,idle
+15799,idle
+15833,swipe left
+15866,swipe left
+15900,swipe left
+15933,swipe left
+15966,swipe left
+16000,swipe left
+16033,swipe left
+16066,swipe left
+16100,swipe left
+16133,swipe left
+16166,swipe left
+16200,swipe left
+16233,swipe left
+16266,swipe left
+16300,swipe left
+16333,swipe left
+16366,swipe left
+16400,swipe left
+16433,swipe left
+16466,swipe left
+16500,swipe left
+16533,swipe left
+16566,swipe left
+16600,swipe left
+16633,swipe left
+16666,swipe left
+16700,swipe left
+16733,swipe left
+16766,swipe left
+16800,swipe left
+16833,idle
+16866,idle
+16900,idle
+16933,idle
+16966,idle
+17000,idle
+17033,idle
+17066,idle
+17100,idle
+17133,idle
+17166,idle
+17200,idle
+17233,idle
+17266,idle
+17300,idle
+17333,idle
+17366,idle
+17400,idle
+17433,idle
+17466,idle
+17500,idle
+17533,idle
+17566,idle
+17600,idle
+17633,idle
+17666,idle
+17700,idle
+17733,idle
+17766,idle
+17800,idle
+17833,idle
+17866,idle
+17900,idle
+17933,idle
+17966,idle
+18000,idle
+18033,idle
+18066,idle
+18100,idle
+18133,idle
+18166,idle
+18200,idle
+18233,idle
+18266,idle
+18300,idle
+18333,idle
+18366,idle
+18400,idle
+18433,idle
+18466,idle
+18500,idle
+18533,idle
+18566,idle
+18600,idle
+18633,idle
+18666,idle
+18700,swipe left
+18733,swipe left
+18766,swipe left
+18800,swipe left
+18833,swipe left
+18866,swipe left
+18900,swipe left
+18933,swipe left
+18966,swipe left
+19000,swipe left
+19033,swipe left
+19066,swipe left
+19100,swipe left
+19133,swipe left
+19166,swipe left
+19200,swipe left
+19233,swipe left
+19266,swipe left
+19300,swipe left
+19333,idle
+19366,idle
+19400,idle
+19433,idle
+19466,idle
+19500,idle
+19533,idle
+19566,idle
+19600,idle
+19633,idle
+19666,idle
+19700,idle
+19733,idle
+19766,idle
+19800,idle
+19833,idle
+19866,idle
+19900,idle
+19933,idle
+19966,idle
+20000,idle
+20033,idle
+20066,idle
+20100,idle
+20133,idle
+20166,idle
+20200,idle
+20233,idle
+20266,idle
+20300,idle
+20333,idle
+20366,idle
+20400,idle
+20433,idle
+20466,idle
+20500,idle
+20533,idle
+20566,idle
+20600,idle
+20633,idle
+20666,idle
+20700,idle
+20733,idle
+20766,idle
+20800,idle
+20833,idle
+20866,idle
+20900,idle
+20933,idle
+20966,idle
+21000,idle
+21033,idle
+21066,idle
+21100,idle
+21133,idle
+21166,swipe left
+21200,swipe left
+21233,swipe left
+21266,swipe left
+21300,swipe left
+21333,swipe left
+21366,swipe left
+21400,swipe left
+21433,swipe left
+21466,swipe left
+21500,swipe left
+21533,swipe left
+21566,swipe left
+21600,swipe left
+21633,swipe left
+21666,swipe left
+21700,swipe left
+21733,swipe left
+21766,swipe left
+21800,swipe left
+21833,swipe left
+21866,swipe left
+21900,swipe left
+21933,swipe left
+21966,swipe left
+22000,swipe left
+22033,swipe left
+22066,idle
+22100,idle
+22133,idle
+22166,idle
+22200,idle
+22233,idle
+22266,idle
+22300,idle
+22333,idle
+22366,idle
+22400,idle
+22433,idle
+22466,idle
+22500,idle
+22533,idle
+22566,idle
+22600,idle
+22633,idle
+22666,idle
+22700,idle
+22733,idle
+22766,idle
+22800,idle
+22833,idle
+22866,idle
+22900,idle
+22933,idle
+22966,idle
+23000,idle
+23033,idle
+23066,idle
+23100,idle
+23133,idle
+23166,idle
+23200,idle
+23233,idle
+23266,idle
+23300,idle
+23333,idle
+23366,idle
+23400,idle
+23433,idle
+23466,idle
+23500,idle
+23533,idle
+23566,idle
+23600,idle
+23633,idle
+23666,idle
+23700,idle
+23733,idle
+23766,idle
+23800,idle
+23833,idle
+23866,idle
+23900,idle
+23933,idle
+23966,idle
+24000,idle
+24033,idle
+24066,swipe left
+24100,swipe left
+24133,swipe left
+24166,swipe left
+24200,swipe left
+24233,swipe left
+24266,swipe left
+24300,swipe left
+24333,swipe left
+24366,swipe left
+24400,swipe left
+24433,swipe left
+24466,swipe left
+24500,swipe left
+24533,swipe left
+24566,swipe left
+24600,swipe left
+24633,swipe left
+24666,swipe left
+24700,swipe left
+24733,swipe left
+24766,swipe left
+24800,swipe left
+24833,swipe left
+24866,swipe left
+24900,swipe left
+24933,swipe left
+24966,swipe left
+25000,swipe left
+25033,swipe left
+25066,swipe left
+25100,idle
+25133,idle
+25166,idle
+25200,idle
+25233,idle
+25266,idle
+25300,idle
+25333,idle
+25366,idle
+25400,idle
+25433,idle
+25466,idle
+25500,idle
+25533,idle
+25566,idle
+25600,idle
+25633,idle
+25666,idle
+25700,idle
+25733,idle
+25766,idle
+25800,idle
+25833,idle
+25866,idle
+25900,idle
+25933,idle
+25966,idle
+26000,idle
+26033,idle
+26066,idle
+26099,idle
+26133,idle
+26166,idle
+26200,idle
+26233,idle
+26266,idle
+26300,idle
+26333,idle
+26366,idle
+26400,idle
+26433,idle
+26466,idle
+26500,idle
+26533,idle
+26566,idle
+26599,idle
+26633,idle
+26666,idle
+26700,idle
+26733,idle
+26766,idle
+26800,idle
+26833,idle
+26866,idle
+26900,swipe left
+26933,swipe left
+26966,swipe left
+27000,swipe left
+27033,swipe left
+27066,swipe left
+27099,swipe left
+27133,swipe left
+27166,swipe left
+27200,swipe left
+27233,swipe left
+27266,swipe left
+27300,swipe left
+27333,swipe left
+27366,swipe left
+27400,swipe left
+27433,swipe left
+27466,swipe left
+27500,swipe left
+27533,swipe left
+27566,swipe left
+27599,swipe left
+27633,swipe left
+27666,swipe left
+27700,swipe left
+27733,idle
+27766,idle
+27800,idle
+27833,idle
+27866,idle
+27900,idle
+27933,idle
+27966,idle
+28000,idle
+28033,idle
+28066,idle
+28099,idle
+28133,idle
+28166,idle
+28200,idle
+28233,idle
+28266,idle
+28300,idle
+28333,idle
+28366,idle
+28400,idle
+28433,idle
+28466,idle
+28500,idle
+28533,idle
+28566,idle
+28599,idle
+28633,idle
+28666,idle
+28700,idle
+28733,idle
+28766,idle
+28800,idle
+28833,idle
+28866,idle
+28900,idle
+28933,idle
+28966,idle
+29000,idle
+29033,idle
+29066,idle
+29099,idle
+29133,idle
+29166,idle
+29200,idle
+29233,idle
+29266,idle
+29300,idle
+29333,idle
+29366,idle
+29400,idle
+29433,idle
+29466,idle
+29500,idle
+29533,idle
+29566,idle
+29599,idle
+29633,idle
+29666,idle
+29700,idle
+29733,idle
+29766,idle
+29800,swipe left
+29833,swipe left
+29866,swipe left
+29900,swipe left
+29933,swipe left
+29966,swipe left
+30000,swipe left
+30033,swipe left
+30066,swipe left
+30099,swipe left
+30133,swipe left
+30166,swipe left
+30200,swipe left
+30233,swipe left
+30266,swipe left
+30300,swipe left
+30333,swipe left
+30366,swipe left
+30400,swipe left
+30433,swipe left
+30466,idle
+30500,idle
+30533,idle
+30566,idle
+30599,idle
+30633,idle
+30666,idle
+30700,idle
+30733,idle
+30766,idle
+30800,idle
+30833,idle
+30866,idle
+30900,idle
+30933,idle
+30966,idle
+31000,idle
+31033,idle
+31066,idle
+31099,idle
+31133,idle
+31166,idle
+31200,idle
+31233,idle
+31266,idle
+31300,idle
+31333,idle
+31366,idle
+31400,idle
+31433,idle
+31466,idle
+31500,idle
+31533,idle
+31566,idle
+31599,idle
+31633,idle
+31666,idle
+31700,idle
+31733,idle
+31766,idle
+31800,idle
+31833,idle
+31866,idle
+31900,idle
+31933,idle
+31966,idle
+32000,idle
+32033,idle
+32066,idle
+32100,idle
+32133,idle
+32166,idle
+32200,idle
+32233,idle
+32266,idle
+32299,idle
+32333,idle
+32366,idle
+32400,idle
+32433,idle
+32466,idle
+32500,idle
+32533,idle
+32566,idle
+32600,swipe left
+32633,swipe left
+32666,swipe left
+32700,swipe left
+32733,swipe left
+32766,swipe left
+32800,swipe left
+32833,swipe left
+32866,swipe left
+32900,swipe left
+32933,swipe left
+32966,swipe left
+33000,swipe left
+33033,swipe left
+33066,swipe left
+33100,swipe left
+33133,swipe left
+33166,swipe left
+33200,swipe left
+33233,swipe left
+33266,swipe left
+33300,swipe left
+33333,swipe left
+33366,swipe left
+33400,swipe left
+33433,swipe left
+33466,swipe left
+33500,idle
+33533,idle
+33566,idle
+33600,idle
+33633,idle
+33666,idle
+33700,idle
+33733,idle
+33766,idle
+33800,idle
+33833,idle
+33866,idle
+33900,idle
+33933,idle
+33966,idle
+34000,idle
+34033,idle
+34066,idle
+34100,idle
+34133,idle
+34166,idle
+34200,idle
+34233,idle
+34266,idle
+34300,idle
+34333,idle
+34366,idle
+34400,idle
+34433,idle
+34466,idle
+34500,idle
+34533,idle
+34566,idle
+34600,idle
+34633,idle
+34666,idle
+34700,idle
+34733,idle
+34766,idle
+34800,idle
+34833,idle
+34866,idle
+34900,idle
+34933,idle
+34966,idle
+35000,idle
+35033,idle
+35066,idle
+35100,idle
+35133,idle
+35166,idle
+35200,idle
+35233,idle
+35266,idle
+35300,idle
+35333,idle
+35366,idle
+35400,idle
+35433,idle
+35466,idle
+35500,swipe left
+35533,swipe left
+35566,swipe left
+35600,swipe left
+35633,swipe left
+35666,swipe left
+35700,swipe left
+35733,swipe left
+35766,swipe left
+35800,swipe left
+35833,swipe left
+35866,swipe left
+35900,swipe left
+35933,swipe left
+35966,swipe left
+36000,swipe left
+36033,swipe left
+36066,swipe left
+36100,swipe left
+36133,swipe left
+36166,swipe left
+36200,swipe left
+36233,swipe left
+36266,swipe left
+36300,swipe left
+36333,swipe left
+36366,swipe left
+36400,swipe left
+36433,idle
+36466,idle
+36500,idle
+36533,idle
+36566,idle
+36600,idle
+36633,idle
+36666,idle
+36700,idle
+36733,idle
+36766,idle
+36800,idle
+36833,idle
+36866,idle
+36900,idle
+36933,idle
+36966,idle
+37000,idle
+37033,idle
+37066,idle
+37100,idle
+37133,idle
+37166,idle
+37200,idle
+37233,idle
+37266,idle
+37300,idle
+37333,idle
+37366,idle
+37400,idle
+37433,idle
+37466,idle
+37500,idle
+37533,idle
+37566,idle
+37600,idle
+37633,idle
+37666,idle
+37700,idle
+37733,idle
+37766,idle
+37800,idle
+37833,idle
+37866,idle
+37900,idle
+37933,idle
+37966,idle
+38000,idle
+38033,idle
+38066,idle
+38100,idle
+38133,idle
+38166,idle
+38200,idle
+38233,idle
+38266,swipe left
+38300,swipe left
+38333,swipe left
+38366,swipe left
+38400,swipe left
+38433,swipe left
+38466,swipe left
+38500,swipe left
+38533,swipe left
+38566,swipe left
+38600,swipe left
+38633,swipe left
+38666,swipe left
+38700,swipe left
+38733,swipe left
+38766,swipe left
+38800,swipe left
+38833,swipe left
+38866,swipe left
+38900,swipe left
+38933,swipe left
+38966,swipe left
+39000,swipe left
+39033,swipe left
+39066,swipe left
+39100,swipe left
+39133,idle
+39166,idle
+39200,idle
+39233,idle
+39266,idle
+39300,idle
+39333,idle
+39366,idle
+39400,idle
+39433,idle
+39466,idle
+39500,idle
+39533,idle
+39566,idle
+39600,idle
+39633,idle
+39666,idle
+39700,idle
+39733,idle
+39766,idle
+39800,idle
+39833,idle
+39866,idle
+39900,idle
+39933,idle
+39966,idle
+40000,idle
+40033,idle
+40066,idle
+40100,idle
+40133,idle
+40166,idle
+40200,idle
+40233,idle
+40266,idle
+40300,idle
+40333,idle
+40366,idle
+40400,idle
+40433,idle
+40466,idle
+40500,idle
+40533,idle
+40566,idle
+40600,idle
+40633,idle
+40666,idle
+40700,idle
+40733,idle
+40766,idle
+40800,idle
+40833,idle
+40866,idle
+40900,idle
+40933,idle
+40966,idle
+41000,idle
+41033,idle
+41066,idle
+41100,idle
+41133,idle
+41166,idle
+41200,idle
+41233,idle
+41266,idle
+41300,idle
+41333,idle
+41366,idle
+41400,idle
+41433,swipe left
+41466,swipe left
+41500,swipe left
+41533,swipe left
+41566,swipe left
+41600,swipe left
+41633,swipe left
+41666,swipe left
+41700,swipe left
+41733,swipe left
+41766,swipe left
+41800,swipe left
+41833,swipe left
+41866,swipe left
+41900,swipe left
+41933,swipe left
+41966,swipe left
+42000,swipe left
+42033,swipe left
+42066,swipe left
+42100,swipe left
+42133,swipe left
+42166,swipe left
+42200,swipe left
+42233,swipe left
+42266,swipe left
+42300,swipe left
+42333,swipe left
+42366,swipe left
+42400,swipe left
+42433,idle
+42466,idle
+42500,idle
+42533,idle
+42566,idle
+42600,idle
+42633,idle
+42666,idle
+42700,idle
+42733,idle
+42766,idle
+42800,idle
+42833,idle
+42866,idle
+42900,idle
+42933,idle
+42966,idle
+43000,idle
+43033,idle
+43066,idle
+43100,idle
+43133,idle
+43166,idle
+43200,idle
+43233,idle
+43266,idle
+43300,idle
+43333,idle
+43366,idle
+43400,idle
+43433,idle
+43466,idle
+43500,idle
+43533,idle
+43566,idle
+43600,idle
+43633,idle
+43666,idle
+43700,idle
+43733,idle
+43766,idle
+43800,idle
+43833,idle
+43866,idle
+43900,idle
+43933,idle
+43966,idle
+44000,idle
+44033,idle
+44066,idle
+44100,idle
+44133,idle
+44166,idle
+44200,swipe left
+44233,swipe left
+44266,swipe left
+44300,swipe left
+44333,swipe left
+44366,swipe left
+44400,swipe left
+44433,swipe left
+44466,swipe left
+44500,swipe left
+44533,swipe left
+44566,swipe left
+44600,swipe left
+44633,swipe left
+44666,swipe left
+44700,swipe left
+44733,swipe left
+44766,swipe left
+44800,swipe left
+44833,swipe left
+44866,swipe left
+44900,swipe left
+44933,swipe left
+44966,swipe left
+45000,idle
+45033,idle
+45066,idle
+45100,idle
+45133,idle
+45166,idle
+45200,idle
+45233,idle
+45266,idle
+45300,idle
+45333,idle
+45366,idle
+45400,idle
+45433,idle
+45466,idle
+45500,idle
+45533,idle
+45566,idle
+45600,idle
+45633,idle
+45666,idle
+45700,idle
+45733,idle
+45766,idle
+45800,idle
+45833,idle
+45866,idle
+45900,idle
+45933,idle
+45966,idle
+46000,idle
+46033,idle
+46066,idle
+46100,idle
+46133,idle
+46166,idle
+46200,idle
+46233,idle
+46266,idle
+46300,idle
+46333,idle
+46366,idle
+46400,idle
+46433,idle
+46466,idle
+46500,idle
+46533,idle
+46566,idle
+46600,idle
+46633,idle
+46666,idle
+46700,idle
+46733,idle
+46766,idle
+46800,idle
+46833,idle
+46866,idle
+46900,idle
+46933,idle
+46966,idle
+47000,idle
+47033,idle
+47066,idle
+47100,idle
+47133,idle
+47166,swipe left
+47200,swipe left
+47233,swipe left
+47266,swipe left
+47300,swipe left
+47333,swipe left
+47366,swipe left
+47400,swipe left
+47433,swipe left
+47466,swipe left
+47500,swipe left
+47533,swipe left
+47566,swipe left
+47600,swipe left
+47633,swipe left
+47666,swipe left
+47700,swipe left
+47733,swipe left
+47766,swipe left
+47800,swipe left
+47833,idle
+47866,idle
+47900,idle
+47933,idle
+47966,idle
+48000,idle
+48033,idle
+48066,idle
+48100,idle
+48133,idle
+48166,idle
+48200,idle
+48233,idle
+48266,idle
+48300,idle
+48333,idle
+48366,idle
+48400,idle
+48433,idle
+48466,idle
+48500,idle
+48533,idle
+48566,idle
+48600,idle
+48633,idle
+48666,idle
+48700,idle
+48733,idle
+48766,idle
+48800,idle
+48833,idle
+48866,idle
+48900,idle
+48933,idle
+48966,idle
+49000,idle
+49033,idle
+49066,idle
+49100,idle
+49133,idle
+49166,idle
+49200,idle
+49233,idle
+49266,idle
+49300,idle
+49333,idle
+49366,idle
+49400,idle
+49433,idle
+49466,idle
+49500,idle
+49533,idle
+49566,idle
+49600,idle
+49633,idle
+49666,idle
+49700,idle
+49733,idle
+49766,idle
+49800,idle
+49833,idle
+49866,idle
+49900,idle
+49933,idle
+49966,idle
+50000,idle
+50033,swipe left
+50066,swipe left
+50100,swipe left
+50133,swipe left
+50166,swipe left
+50200,swipe left
+50233,swipe left
+50266,swipe left
+50300,swipe left
+50333,swipe left
+50366,swipe left
+50400,swipe left
+50433,swipe left
+50466,swipe left
+50500,swipe left
+50533,swipe left
+50566,swipe left
+50600,swipe left
+50633,swipe left
+50666,swipe left
+50700,swipe left
+50733,swipe left
+50766,swipe left
+50800,swipe left
+50833,swipe left
+50866,swipe left
+50900,swipe left
+50933,swipe left
+50966,swipe left
+51000,swipe left
+51033,idle
+51066,idle
+51100,idle
+51133,idle
+51166,idle
+51200,idle
+51233,idle
+51266,idle
+51300,idle
+51333,idle
+51366,idle
+51400,idle
+51433,idle
+51466,idle
+51500,idle
+51533,idle
+51566,idle
+51600,idle
+51633,idle
+51666,idle
+51699,idle
+51733,idle
+51766,idle
+51800,idle
+51833,idle
+51866,idle
+51900,idle
+51933,idle
+51966,idle
+52000,idle
+52033,idle
+52066,idle
+52100,idle
+52133,idle
+52166,idle
+52199,idle
+52233,idle
+52266,idle
+52300,idle
+52333,idle
+52366,idle
+52400,idle
+52433,idle
+52466,idle
+52500,idle
+52533,idle
+52566,idle
+52600,idle
+52633,idle
+52666,idle
+52699,idle
+52733,idle
+52766,idle
+52800,idle
+52833,idle
+52866,idle
+52900,idle
+52933,idle
+52966,swipe left
+53000,swipe left
+53033,swipe left
+53066,swipe left
+53100,swipe left
+53133,swipe left
+53166,swipe left
+53199,swipe left
+53233,swipe left
+53266,swipe left
+53300,swipe left
+53333,swipe left
+53366,swipe left
+53400,swipe left
+53433,swipe left
+53466,swipe left
+53500,swipe left
+53533,swipe left
+53566,swipe left
+53600,swipe left
+53633,swipe left
+53666,swipe left
+53699,swipe left
+53733,swipe left
+53766,swipe left
+53800,swipe left
+53833,swipe left
+53866,swipe left
+53900,swipe left
+53933,swipe left
+53966,swipe left
+54000,swipe left
+54033,swipe left
+54066,swipe left
+54100,swipe left
+54133,swipe left
+54166,swipe left
+54199,swipe left
+54233,swipe left
+54266,swipe left
+54300,swipe left
+54333,swipe left
+54366,swipe left
+54400,swipe left
+54433,idle
+54466,idle
+54500,idle
+54533,idle
+54566,idle
+54600,idle
+54633,idle
+54666,idle
+54699,idle
+54733,idle
+54766,idle
+54800,idle
+54833,idle
+54866,idle
+54900,idle
+54933,idle
+54966,idle
+55000,idle
+55033,idle
+55066,idle
+55100,idle
+55133,idle
+55166,idle
+55199,idle
+55233,idle
+55266,idle
+55300,idle
+55333,idle
+55366,idle
+55400,idle
+55433,idle
+55466,idle
+55500,idle
+55533,idle
+55566,idle
+55600,idle
+55633,idle
+55666,idle
+55699,idle
+55733,idle
+55766,idle
+55800,idle
+55833,idle
+55866,idle
+55900,idle
+55933,idle
+55966,idle
+56000,idle
+56033,idle
+56066,idle
+56100,idle
+56133,idle
+56166,idle
+56199,idle
+56233,idle
+56266,idle
+56300,idle
+56333,idle
+56366,idle
+56400,idle
+56433,idle
+56466,idle
+56500,swipe left
+56533,swipe left
+56566,swipe left
+56600,swipe left
+56633,swipe left
+56666,swipe left
+56699,swipe left
+56733,swipe left
+56766,swipe left
+56800,swipe left
+56833,swipe left
+56866,swipe left
+56900,swipe left
+56933,swipe left
+56966,swipe left
+57000,swipe left
+57033,swipe left
+57066,swipe left
+57100,swipe left
+57133,swipe left
+57166,swipe left
+57199,idle
+57233,idle
+57266,idle
+57300,idle
+57333,idle
+57366,idle
+57400,idle
+57433,idle
+57466,idle
+57500,idle
+57533,idle
+57566,idle
+57600,idle
+57633,idle
+57666,idle
+57699,idle
+57733,idle
+57766,idle
+57800,idle
+57833,idle
+57866,idle
+57900,idle
+57933,idle
+57966,idle
+58000,idle
+58033,idle
+58066,idle
+58100,idle
+58133,idle
+58166,idle
+58199,idle
+58233,idle
+58266,idle
+58300,idle
+58333,idle
+58366,idle
+58400,idle
+58433,idle
+58466,idle
+58500,idle
+58533,idle
+58566,idle
+58600,idle
+58633,idle
+58666,idle
+58699,idle
+58733,idle
+58766,idle
+58800,idle
+58833,idle
+58866,idle
+58900,idle
+58933,idle
+58966,idle
+59000,idle
+59033,idle
+59066,idle
+59100,swipe left
+59133,swipe left
+59166,swipe left
+59199,swipe left
+59233,swipe left
+59266,swipe left
+59300,swipe left
+59333,swipe left
+59366,swipe left
+59400,swipe left
+59433,swipe left
+59466,swipe left
+59500,swipe left
+59533,swipe left
+59566,swipe left
+59600,swipe left
+59633,swipe left
+59666,swipe left
+59699,swipe left
+59733,swipe left
+59766,swipe left
+59800,swipe left
+59833,swipe left
+59866,swipe left
+59900,swipe left
+59933,idle
+59966,idle
+60000,idle
+60033,idle
+60066,idle
+60100,idle
+60133,idle
+60166,idle
+60199,idle
+60233,idle
+60266,idle
+60300,idle
+60333,idle
+60366,idle
+60400,idle
+60433,idle
+60466,idle
+60500,idle
+60533,idle
+60566,idle
+60600,idle
+60633,idle
+60666,idle
+60699,idle
+60733,idle
+60766,idle
+60800,idle
+60833,idle
+60866,idle
+60900,idle
+60933,idle
+60966,idle
+61000,idle
+61033,idle
+61066,idle
+61100,idle
+61133,idle
+61166,idle
+61199,idle
+61233,idle
+61266,idle
+61300,idle
+61333,idle
+61366,idle
+61400,idle
+61433,idle
+61466,idle
+61500,idle
+61533,idle
+61566,idle
+61600,idle
+61633,idle
+61666,idle
+61699,idle
+61733,idle
+61766,swipe left
+61800,swipe left
+61833,swipe left
+61866,swipe left
+61900,swipe left
+61933,swipe left
+61966,swipe left
+62000,swipe left
+62033,swipe left
+62066,swipe left
+62100,swipe left
+62133,swipe left
+62166,swipe left
+62199,swipe left
+62233,swipe left
+62266,swipe left
+62300,swipe left
+62333,swipe left
+62366,swipe left
+62400,swipe left
+62433,swipe left
+62466,swipe left
+62500,swipe left
+62533,swipe left
+62566,swipe left
+62600,swipe left
+62633,swipe left
+62666,swipe left
+62699,swipe left
+62733,swipe left
+62766,swipe left
+62800,swipe left
+62833,swipe left
+62866,swipe left
+62900,swipe left
+62933,idle
+62966,idle
+63000,idle
+63033,idle
+63066,idle
+63100,idle
+63133,idle
+63166,idle
+63199,idle
+63233,idle
+63266,idle
+63300,idle
+63333,idle
+63366,idle
+63400,idle
+63433,idle
+63466,idle
+63500,idle
+63533,idle
+63566,idle
+63600,idle
+63633,idle
+63666,idle
+63699,idle
+63733,idle
+63766,idle
+63800,idle
+63833,idle
+63866,idle
+63900,idle
+63933,idle
+63966,idle
+64000,idle
+64033,idle
+64066,idle
+64099,idle
+64133,idle
+64166,idle
+64200,idle
+64233,idle
+64266,idle
+64300,idle
+64333,idle
+64366,idle
+64400,idle
+64433,idle
+64466,idle
+64500,idle
+64533,idle
+64566,idle
+64599,idle
+64633,idle
+64666,swipe left
+64700,swipe left
+64733,swipe left
+64766,swipe left
+64800,swipe left
+64833,swipe left
+64866,swipe left
+64900,swipe left
+64933,swipe left
+64966,swipe left
+65000,swipe left
+65033,swipe left
+65066,swipe left
+65099,swipe left
+65133,swipe left
+65166,swipe left
+65200,swipe left
+65233,swipe left
+65266,swipe left
+65300,swipe left
+65333,swipe left
+65366,swipe left
+65400,swipe left
+65433,swipe left
+65466,swipe left
+65500,idle
+65533,idle
+65566,idle
+65600,idle
+65633,idle
+65666,idle
+65700,idle
+65733,idle
+65766,idle
+65800,idle
+65833,idle
+65866,idle
+65900,idle
+65933,idle
+65966,idle
+66000,idle
+66033,idle
+66066,idle
+66100,idle
+66133,idle
+66166,idle
+66200,idle
+66233,idle
+66266,idle
+66300,idle
+66333,idle
+66366,idle
+66400,idle
+66433,idle
+66466,idle
+66500,idle
+66533,idle
+66566,idle
+66600,idle
+66633,idle
+66666,idle
+66700,idle
+66733,idle
+66766,idle
+66800,idle
+66833,idle
+66866,idle
+66900,idle
+66933,idle
+66966,idle
+67000,idle
+67033,idle
+67066,idle
+67100,idle
+67133,idle
+67166,idle
+67200,idle
+67233,idle
+67266,idle
+67300,idle
+67333,idle
+67366,idle
+67400,idle
+67433,idle
+67466,idle
+67500,swipe left
+67533,swipe left
+67566,swipe left
+67600,swipe left
+67633,swipe left
+67666,swipe left
+67700,swipe left
+67733,swipe left
+67766,swipe left
+67800,swipe left
+67833,swipe left
+67866,swipe left
+67900,swipe left
+67933,swipe left
+67966,swipe left
+68000,swipe left
+68033,swipe left
+68066,swipe left
+68100,swipe left
+68133,swipe left
+68166,swipe left
+68200,swipe left
+68233,swipe left
+68266,swipe left
+68300,swipe left
+68333,swipe left
+68366,swipe left
+68400,swipe left
+68433,swipe left
+68466,swipe left
+68500,swipe left
+68533,swipe left
+68566,swipe left
+68600,swipe left
+68633,swipe left
+68666,swipe left
+68700,swipe left
+68733,swipe left
+68766,idle
+68800,idle
+68833,idle
+68866,idle
+68900,idle
+68933,idle
+68966,idle
+69000,idle
+69033,idle
+69066,idle
+69100,idle
+69133,idle
+69166,idle
+69200,idle
+69233,idle
+69266,idle
+69300,idle
+69333,idle
+69366,idle
+69400,idle
+69433,idle
+69466,idle
+69500,idle
+69533,idle
+69566,idle
+69600,idle
+69633,idle
+69666,idle
+69700,idle
+69733,idle
+69766,idle
+69800,idle
+69833,idle
+69866,idle
+69900,idle
+69933,idle
+69966,idle
+70000,idle
+70033,idle
+70066,idle
+70100,idle
+70133,idle
+70166,idle
+70200,idle
+70233,idle
+70266,idle
+70300,idle
+70333,swipe left
+70366,swipe left
+70400,swipe left
+70433,swipe left
+70466,swipe left
+70500,swipe left
+70533,swipe left
+70566,swipe left
+70600,swipe left
+70633,swipe left
+70666,swipe left
+70700,swipe left
+70733,swipe left
+70766,swipe left
+70800,swipe left
+70833,swipe left
+70866,swipe left
+70900,swipe left
+70933,swipe left
+70966,swipe left
+71000,swipe left
+71033,swipe left
+71066,swipe left
+71100,swipe left
+71133,swipe left
+71166,swipe left
+71200,swipe left
+71233,swipe left
+71266,swipe left
+71300,swipe left
+71333,swipe left
+71366,swipe left
+71400,swipe left
+71433,swipe left
+71466,swipe left
+71500,swipe left
+71533,swipe left
+71566,idle
+71600,idle
+71633,idle
+71666,idle
+71700,idle
+71733,idle
+71766,idle
+71800,idle
+71833,idle
+71866,idle
+71900,idle
+71933,idle
+71966,idle
+72000,idle
+72033,idle
+72066,idle
+72100,idle
+72133,idle
+72166,idle
+72200,idle
+72233,idle
+72266,idle
+72300,idle
+72333,idle
+72366,idle
+72400,idle
+72433,idle
+72466,idle
+72500,idle
+72533,idle
+72566,idle
+72600,idle
+72633,idle
+72666,idle
+72700,idle
+72733,idle
+72766,idle
+72800,idle
+72833,idle
+72866,idle
+72900,idle
+72933,idle
+72966,idle
+73000,idle
+73033,idle
+73066,idle
+73100,idle
+73133,idle
+73166,idle
+73200,idle
+73233,idle
+73266,idle
+73300,idle
+73333,swipe left
+73366,swipe left
+73400,swipe left
+73433,swipe left
+73466,swipe left
+73500,swipe left
+73533,swipe left
+73566,swipe left
+73600,swipe left
+73633,swipe left
+73666,swipe left
+73700,swipe left
+73733,swipe left
+73766,swipe left
+73800,swipe left
+73833,swipe left
+73866,swipe left
+73900,swipe left
+73933,swipe left
+73966,swipe left
+74000,swipe left
+74033,swipe left
+74066,swipe left
+74100,swipe left
+74133,swipe left
+74166,swipe left
+74200,swipe left
+74233,idle
+74266,idle
+74300,idle
+74333,idle
+74366,idle
+74400,idle
+74433,idle
+74466,idle
+74500,idle
+74533,idle
+74566,idle
+74600,idle
+74633,idle
+74666,idle
+74700,idle
+74733,idle
+74766,idle
+74800,idle
+74833,idle
+74866,idle
+74900,idle
+74933,idle
+74966,idle
+75000,idle
+75033,idle
+75066,idle
+75100,idle
+75133,idle
+75166,idle
+75200,idle
+75233,idle
+75266,idle
+75300,idle
+75333,idle
+75366,idle
+75400,idle
+75433,idle
+75466,idle
+75500,idle
+75533,idle
+75566,idle
+75600,idle
+75633,idle
+75666,idle
+75700,idle
+75733,idle
+75766,idle
+75800,idle
+75833,idle
+75866,idle
+75900,idle
+75933,idle
+75966,idle
+76000,swipe left
+76033,swipe left
+76066,swipe left
+76100,swipe left
+76133,swipe left
+76166,swipe left
+76200,swipe left
+76233,swipe left
+76266,swipe left
+76300,swipe left
+76333,swipe left
+76366,swipe left
+76400,swipe left
+76433,swipe left
+76466,swipe left
+76500,swipe left
+76533,swipe left
+76566,swipe left
+76600,swipe left
+76633,swipe left
+76666,swipe left
+76700,swipe left
+76733,swipe left
+76766,swipe left
+76800,swipe left
+76833,swipe left
+76866,swipe left
+76900,swipe left
+76933,swipe left
+76966,swipe left
+77000,swipe left
+77033,swipe left
+77066,swipe left
+77100,swipe left
+77133,swipe left
+77166,swipe left
+77200,idle
+77233,idle
+77266,idle
+77300,idle
+77333,idle
+77366,idle
+77400,idle
+77433,idle
+77466,idle
+77500,idle
+77533,idle
+77566,idle
+77600,idle
+77633,idle
+77666,idle
+77700,idle
+77733,idle
+77766,idle
+77800,idle
+77833,idle
+77866,idle
+77900,idle
+77933,idle
+77966,idle
+78000,idle
+78033,idle
+78066,idle
+78100,idle
+78133,idle
+78166,idle
+78200,idle
+78233,idle
+78266,idle
+78300,idle
+78333,idle
+78366,idle
+78400,idle
+78433,idle
+78466,idle
+78500,idle
+78533,idle
+78566,idle
+78600,idle
+78633,idle
+78666,idle
+78700,swipe left
+78733,swipe left
+78766,swipe left
+78800,swipe left
+78833,swipe left
+78866,swipe left
+78900,swipe left
+78933,swipe left
+78966,swipe left
+79000,swipe left
+79033,swipe left
+79066,swipe left
+79100,swipe left
+79133,swipe left
+79166,swipe left
+79200,swipe left
+79233,swipe left
+79266,swipe left
+79300,swipe left
+79333,swipe left
+79366,swipe left
+79400,swipe left
+79433,swipe left
+79466,swipe left
+79500,swipe left
+79533,swipe left
+79566,swipe left
+79600,swipe left
+79633,idle
+79666,idle
+79700,idle
+79733,idle
+79766,idle
+79800,idle
+79833,idle
+79866,idle
+79900,idle
+79933,idle
+79966,idle
+80000,idle
+80033,idle
+80066,idle
+80100,idle
+80133,idle
+80166,idle
+80200,idle
+80233,idle
+80266,idle
+80300,idle
+80333,idle
+80366,idle
+80400,idle
+80433,idle
+80466,idle
+80500,idle
+80533,idle
+80566,idle
+80600,idle
+80633,idle
+80666,idle
+80700,idle
+80733,idle
+80766,idle
+80800,idle
+80833,idle
+80866,idle
+80900,idle
+80933,idle
+80966,idle
+81000,idle
+81033,idle
+81066,idle
+81100,idle
+81133,idle
+81166,idle
+81200,swipe left
+81233,swipe left
+81266,swipe left
+81300,swipe left
+81333,swipe left
+81366,swipe left
+81400,swipe left
+81433,swipe left
+81466,swipe left
+81500,swipe left
+81533,swipe left
+81566,swipe left
+81600,swipe left
+81633,swipe left
+81666,swipe left
+81700,swipe left
+81733,swipe left
+81766,swipe left
+81800,swipe left
+81833,swipe left
+81866,swipe left
+81900,swipe left
+81933,swipe left
+81966,idle
+82000,idle
+82033,idle
+82066,idle
+82100,idle
+82133,idle
+82166,idle
+82200,idle
+82233,idle
+82266,idle
+82300,idle
+82333,idle
+82366,idle
+82400,idle
+82433,idle
+82466,idle
+82500,idle
+82533,idle
+82566,idle
+82600,idle
+82633,idle
+82666,idle
+82700,idle
+82733,idle
+82766,idle
+82800,idle
+82833,idle
+82866,idle
+82900,idle
+82933,idle
+82966,idle
+83000,idle
+83033,idle
+83066,idle
+83100,idle
+83133,idle
+83166,idle
+83200,idle
+83233,idle
+83266,idle
+83300,idle
+83333,idle
+83366,idle
+83400,idle
+83433,idle
+83466,idle
+83500,idle
+83533,idle
+83566,idle
+83600,idle
+83633,idle
+83666,idle
+83700,idle
+83733,idle
+83766,idle
+83800,idle
+83833,idle
+83866,swipe left
+83900,swipe left
+83933,swipe left
+83966,swipe left
+84000,swipe left
+84033,swipe left
+84066,swipe left
+84100,swipe left
+84133,swipe left
+84166,swipe left
+84200,swipe left
+84233,swipe left
+84266,swipe left
+84300,swipe left
+84333,swipe left
+84366,swipe left
+84400,swipe left
+84433,swipe left
+84466,swipe left
+84500,swipe left
+84533,swipe left
+84566,swipe left
+84600,swipe left
+84633,swipe left
+84666,swipe left
+84700,swipe left
+84733,swipe left
+84766,idle
+84800,idle
+84833,idle
+84866,idle
+84900,idle
+84933,idle
+84966,idle
+85000,idle
+85033,idle
+85066,idle
+85100,idle
+85133,idle
+85166,idle
+85200,idle
+85233,idle
+85266,idle
+85300,idle
+85333,idle
+85366,idle
+85400,idle
+85433,idle
+85466,idle
+85500,idle
+85533,idle
+85566,idle
+85600,idle
+85633,idle
+85666,idle
+85700,idle
+85733,idle
+85766,idle
+85800,idle
+85833,idle
+85866,idle
+85900,idle
+85933,idle
+85966,idle
+86000,idle
+86033,idle
+86066,idle
+86100,idle
+86133,idle
+86166,idle
+86200,idle
+86233,idle
+86266,idle
+86300,idle
+86333,idle
+86366,idle
+86400,idle
+86433,idle
+86466,idle
+86500,idle
+86533,idle
+86566,idle
+86600,idle
+86633,idle
+86666,idle
+86700,idle
+86733,idle
+86766,idle
+86800,idle
+86833,idle
+86866,idle
+86900,idle
+86933,idle
+86966,idle
+87000,idle
+87033,idle
+87066,idle
+87100,idle
+87133,idle
+87166,idle
+87200,idle

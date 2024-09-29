@@ -1,0 +1,14 @@
+.ipynb_checkpoints
+.idea
+.vs
+Pipfile.lock
+.DS_Store
+#models
+
+#our edits
+venv
+.metals
+.vscode
+__pycache__/
+emitted_events.csv
+events_visualization.png
